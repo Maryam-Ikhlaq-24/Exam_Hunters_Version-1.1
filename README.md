@@ -41,11 +41,14 @@ There is no “winning” — only reflection.
 - 🔥 **Phoenix** – The comeback story (Recovered from early low stats)
 
 ## ▶️ How to Play
-🗂️ 1. Download and Setup
-Download the ZIP folder (from this GitHub or shared link)
-Unzip the folder
-Open the folder in Visual Studio Code
 
-🐍 2. Install Python (if not installed)
-You need Python 3.8+ installed.
-Get it here: https://www.python.org/downloads/
+### 🗂️ 1. Download and Setup
+
+- Download the ZIP folder  
+- Unzip the folder  
+- Open the folder in **Visual Studio Code**
+
+### 🐍 2. Install Python (if not installed)
+
+You need **Python 3.8+** installed.  
+Get it here: [https://www.python.org/downloads/](https://www.python.org/downloads/)
